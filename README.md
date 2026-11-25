@@ -214,3 +214,5 @@ CI 在 Python 3.8 / 3.11 / 3.13 和 Windows 上跑同一套回归。工具本身
 ## License
 
 MIT，见 [LICENSE](LICENSE)。
+#   r s a - a u t o  
+ 
