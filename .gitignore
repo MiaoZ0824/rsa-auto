@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 打包产物（exe 走 Releases，不进仓库）
+build/
+dist/
+*.spec
+*.exe
+*.manifest
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# 运行残留
+*.log
+*.out
+rsa_solver_config.json
