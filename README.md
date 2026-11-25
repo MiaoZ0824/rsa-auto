@@ -3,12 +3,12 @@
 **CTF RSA 题型自动判定 + 自动解密。单文件、纯 Python 标准库、零依赖。**
 
 ```
-git clone https://github.com/<你的用户名>/rsa-auto.git
+git clone https://github.com/MiaoZ0824/rsa-auto.git
 cd rsa-auto
-python3 rsa_solver.py chall.py
+python3 rsa_solver.py examples/02_low_exponent/chall.txt   # 立刻跑出一条 flag
 ```
 
-![CI](https://github.com/<你的用户名>/rsa-auto/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/MiaoZ0824/rsa-auto/actions/workflows/ci.yml/badge.svg)
 
 ---
 
@@ -214,5 +214,3 @@ CI 在 Python 3.8 / 3.11 / 3.13 和 Windows 上跑同一套回归。工具本身
 ## License
 
 MIT，见 [LICENSE](LICENSE)。
-#   r s a - a u t o  
- 
